@@ -20,5 +20,8 @@ The work extends the [CIDOC CRM RDFS version 7.1.1](https://cidoc-crm.org/rdfs/7
 4.	Dominic Oldman and CRM Labs, “The CIDOC Conceptual Reference Model  (CIDOC-CRM): PRIMER.” [Online]. Available: http://old.cidoc-crm.org/docs/CRMPrimer_v1.1.pdf
 5.	Francesco Beretta et al., “Principles for Modelling Ontologies: A Short Reference Guide.” Parthenos / ICS-FORTH, Sep. 2017.
 6.	“The CIDOC Conceptual Reference Model (CRM).” ICOM, Apr. 2021. [Online]. Available: https://cidoc-crm.org/
-7.	M. Doerr, C. Bekiari, A. Kritsotaki, G. Hiebel, and M. Theodoridou, “Modelling scientific activities: proposal for a global schema for integrating metadata about scientific observation,” 2014. [Online]. Available: https://cidoc.mini.icom.museum/wp-content/uploads/sites/6/2018/12/E-2_Bekiari_paper.pdf
-8.	S. H. Schwartz et al., “Refining the theory of basic individual values.,” J. Pers. Soc. Psychol., vol. 103, no. 4, p. 663, 2012.
+7.	M. DeBellis, “A Universal Moral Grammar (UMG) Ontology,” Procedia Comput. Sci., vol. 137, pp. 242–248, 2018, doi: 10.1016/j.procs.2018.09.023.
+8.	Michele Pasin, “Project site,” PhiloSURFical. http://philosurfical.open.ac.uk/
+9.	“Overview of the Value Ontology Research & Analysis.” Global University Alliance. [Online]. Available: https://www.globaluniversityalliance.org/wp-content/uploads/2017/11/Value-Research.pdf
+10.	M. Doerr, C. Bekiari, A. Kritsotaki, G. Hiebel, and M. Theodoridou, “Modelling scientific activities: proposal for a global schema for integrating metadata about scientific observation,” 2014. [Online]. Available: https://cidoc.mini.icom.museum/wp-content/uploads/sites/6/2018/12/E-2_Bekiari_paper.pdf
+11.	S. H. Schwartz et al., “Refining the theory of basic individual values.,” J. Pers. Soc. Psychol., vol. 103, no. 4, p. 663, 2012.
